@@ -46,7 +46,7 @@
         &kp Q           &kp W           &kp E       &kp R       &kp T               &kp Y           &kp U       &kp I           &kp O           &kp P
         &bhm LCTRL A    &bhm LSHIFT S   &bhm LALT D &bhm TAB F  &bhm LWIN G         &bhm RWIN H     &bhm TAB J  &bhm RALT K     &bhm RSHIFT L   &bhm RCTRL SEMI
         &kp Z           &kp X           &kp C       &kp V       &kp B               &kp N           &kp M       &kp COMMA       &kp DOT         &kp FSLH
-                                        &mo NUMBER  &kp RET   &kp DEL               &kp BSPC         &kp SPACE     &mo FUNCTION
+                                        &mo NUMBER  &kp DEL   &kp RET               &kp BSPC         &kp SPACE     &mo FUNCTION
             >;
         };
 
